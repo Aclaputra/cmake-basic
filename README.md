@@ -1,2 +1,2 @@
 # cmake-research
-Learn CMake from its official documentation tutorials
+Learn CMake from its Official Documentation tutorials
